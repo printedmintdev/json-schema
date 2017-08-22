@@ -1,8 +1,8 @@
 {
-    "name": "justinrainbow/json-schema",
+    "name": "printedmintdev/json-schema",
     "description": "A library to validate a json schema.",
     "keywords": ["json", "schema"],
-    "homepage": "https://github.com/justinrainbow/json-schema",
+    "homepage": "https://github.com/printedmintdev/json-schema",
     "type": "library",
     "license": "MIT",
     "authors": [
